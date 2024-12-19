@@ -1,1 +1,1 @@
-const
+const help = "wth"
